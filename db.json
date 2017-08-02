@@ -3,16 +3,53 @@
     {
       "id": 0,
       "recruit": "Bill the Archer"
-    }
-  ],
-  "undead": [
+    },
     {
-      "id": 1,
-      "name": "Undead Army",
-      "shortname": "undead",
-      "leader": "Pumpkin King"
+      "recruit": "Shield",
+      "id": 1
+    },
+    {
+      "recruit": "Drummer",
+      "id": 2
+    },
+    {
+      "recruit": "Smithy the hairy child",
+      "id": 3
+    },
+    {
+      "recruit": "The town sling shotters",
+      "id": 4
+    },
+    {
+      "recruit": "Patti the angriest cook",
+      "id": 5
+    },
+    {
+      "recruit": "Flag bearer",
+      "id": 6
+    },
+    {
+      "recruit": "Gilbert the Dragonboat Prince",
+      "id": 7
+    },
+    {
+      "recruit": "The Blue Ranger Bros.",
+      "id": 8
+    },
+    {
+      "recruit": "Coach Scooter",
+      "id": 9
+    },
+    {
+      "recruit": "\"Dont worry, I don't kiss on a first date\" Guy",
+      "id": 10
+    },
+    {
+      "recruit": "Sara and the Sample Cup Kids",
+      "id": 11
     }
   ],
+  "undead": [],
   "undead_minions": [
     {
       "id": 1,
@@ -59,14 +96,7 @@
       "type": "Lich"
     }
   ],
-  "barbarian": [
-    {
-      "id": 2,
-      "name": "Barbarian Horde",
-      "shortname": "barbarian",
-      "leader": "Barbarian Warlord"
-    }
-  ],
+  "barbarian": [],
   "barbarian_minions": [
     {
       "id": 1,
@@ -90,7 +120,7 @@
     },
     {
       "id": 6,
-      "type": "Barbarian"
+      "type": "frog"
     },
     {
       "id": 7,
@@ -184,7 +214,7 @@
     },
     {
       "id": 7,
-      "type": "Angry Pixie (adopted)"
+      "type": "frog"
     }
   ]
 }
